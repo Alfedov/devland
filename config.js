@@ -1,6 +1,6 @@
 module.exports = {
  "verification": "",
- "description": "",
+ "description": "DevLand",
  "domain": "https://bot-with-advanced-dashboard.alfedov.repl.co", // This Domain need to be without https:// or http:// (eg: hydrabot.fun not https://hydrabot.fun)
  "google_analitics": "", 
  "token": "OTQwOTA3NDg1NTc1OTI5OTA3.YgOOYQ.0n4Nvy0Loamm96b1yL5AOk4ire4",
